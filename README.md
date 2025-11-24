@@ -43,7 +43,7 @@
 ## 🚀 Quick Start
 
 ### Try It Live
-Visit **[https://github-aura.preview.emergentagent.com](https://github-aura.preview.emergentagent.com)**
+Visit **[✨ **Live Demo**](https://kura-kura-production-78d0.up.railway.app)**
 
 1. Paste any GitHub URL (e.g., `facebook/react`)
 2. Click 🎲 to generate the spirit
@@ -354,7 +354,7 @@ This project is licensed under the **MIT License** - see [LICENSE](./LICENSE) fo
 
 **Creator**: Yuan  
 **Portfolio**: [Linktree](https://linktr.ee/yuan)  
-**Live Demo**: [https://github-aura.preview.emergentagent.com](https://github-aura.preview.emergentagent.com)
+**Live Demo**: [https://kura-kura-production-78d0.up.railway.app](https://kura-kura-production-78d0.up.railway.app)
 
 ---
 
