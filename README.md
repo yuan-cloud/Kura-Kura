@@ -4,7 +4,7 @@
 
 **Every repository has a soul**
 
-[✨ **Live Demo**](https://github-aura.preview.emergentagent.com) • [📚 **Documentation**](./docs/api.md) • [🏗️ **Architecture**](./ARCHITECTURE.md) • [📝 **Changelog**](./CHANGELOG.md)
+[✨ **Live Demo**](https://kura-kura-production-78d0.up.railway.app) • [📚 **Documentation**](./docs/api.md) • [🏗️ **Architecture**](./ARCHITECTURE.md) • [📝 **Changelog**](./CHANGELOG.md)
 
 ![Hero](https://via.placeholder.com/1200x600/1a1a2e/61dafb?text=Kura+Repository+Spirits)
 
