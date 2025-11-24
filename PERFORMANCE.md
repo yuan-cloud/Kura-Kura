@@ -394,7 +394,7 @@ logging.info(
 **Scenario**: 1000 concurrent users, 10 requests each
 ```bash
 # Using Apache Bench
-ab -n 10000 -c 1000 https://github-aura.preview.emergentagent.com/api/generate
+ab -n 10000 -c 1000 https://kura-kura-production-78d0.up.railway.app/api/generate
 ```
 
 **Results:**

@@ -254,7 +254,7 @@ class GenerateRequest(BaseModel):
 ```python
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://github-aura.preview.emergentagent.com"],
+    allow_origins=["https://kura-kura-production-78d0.up.railway.app"],
     allow_credentials=True,
     allow_methods=["GET", "POST"],
     allow_headers=["*"],
@@ -363,7 +363,7 @@ app.add_middleware(
 
 ## 🔗 Quick Links
 
-- **Live Demo**: [https://github-aura.preview.emergentagent.com](https://github-aura.preview.emergentagent.com)
+- **Live Demo**: [https://kura-kura-production-78d0.up.railway.app](https://kura-kura-production-78d0.up.railway.app)
 - **Architecture Docs**: [ARCHITECTURE.md](./ARCHITECTURE.md)
 - **API Docs**: [docs/api.md](./docs/api.md)
 - **Performance Analysis**: [PERFORMANCE.md](./PERFORMANCE.md)

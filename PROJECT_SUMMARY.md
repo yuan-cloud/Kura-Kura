@@ -299,7 +299,7 @@ kura/
 
 ## Deployment
 
-**Live URL**: https://github-aura.preview.emergentagent.com
+**Live URL**: https://kura-kura-production-78d0.up.railway.app
 
 **Infrastructure**:
 - Nginx reverse proxy
@@ -381,7 +381,7 @@ Kura transforms GitHub repositories into animated spirits with adaptive music—
 
 ## Contact & Links
 
-- **Live Demo**: https://github-aura.preview.emergentagent.com
+- **Live Demo**: https://kura-kura-production-78d0.up.railway.app
 - **Creator**: Yuan
 - **Social**: [Linktree](https://linktr.ee/yuan)
 - **Email**: [Contact via site]
